@@ -13,7 +13,18 @@ public class HelloWorld
 
 public class HelloWorld
 {
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
+        public static void main(String[] args) {
+                System.out.println("Hello World!");
+        }
 }
+[root@ip-172-31-92-84 amanrepo]# vi file1
+/* HelloWorld.java
+ */
+
+public class HelloWorld
+{
+        public static void main(String[] args) {
+                System.out.println("Hello World!");
+        }
+}
+*****************************************************
